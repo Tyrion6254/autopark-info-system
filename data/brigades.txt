@@ -1,0 +1,6 @@
+B01;Alpha Shift;M001
+B02;Night Owls;M003
+B03;Gamma Shift;M004
+B04;Light Shift;M005
+B05;Heavy Lifters Unit;M002
+B06;Delta Squad;M006

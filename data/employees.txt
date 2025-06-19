@@ -1,0 +1,54 @@
+D;D001;Petrenko Vasyl Ivanovych;12;B,C,D;AA1111BX,AX7777BT
+D;D002;Kovalenko Mariia Serhiivna;8;B,D;AA2222CX
+D;D003;Shevchenko Taras Hryhorovych;5;B;CA3333HI
+D;D004;Melnyk Andrii Pavlovych;10;C;BC1234AB,AR9012UI
+D;D005;Tkachenko Iryna Olegivna;6;D;BD4321BA
+D;D006;Bondarenko Oleh Serhiiovych;9;B,C;AB3333XY,AU1234FJ
+D;D007;Lysenko Natalia Vasylivna;7;B;AC4444YZ
+D;D008;Rudenko Ihor Volodymyrovych;11;C,D;BE6789CB,BL0123XW
+D;D009;Savchuk Olena Mykolayivna;4;B;AD5555ZT
+D;D010;Marchenko Volodymyr Dmytrovych;13;C;BF5678DC,BH4567JH
+D;D011;Hryhorenko Semen Petrovych;15;B,C,D;AO1234KP
+D;D012;Pavlenko Olha Dmytrivna;3;B;AP5678IO
+D;D013;Zakharov Maksym Viktorovych;7;C;BA6789NB
+D;D014;Romanenko Alina Yuriivna;2;B;BC4567ZP
+D;D015;Davydenko Artem Ihorovych;10;B,C;BD8901WQ,BE2345SR
+D;D016;Moroz Svitlana Ivanivna;6;B;BG0123LK
+D;D017;Klymenko Vitalii Olehovych;8;C,D;BP6789RG
+D;D018;Soroka Maryna Vasylivna;4;B;BJ2345DS
+D;D019;Lebid Taras Bohdanovych;11;B,C;BK6789AZ
+D;D020;Popova Hanna Oleksandrivna;5;B;BN8901UB
+D;D021;Kravchuk Denys Serhiiovych;9;C;BR4567WP
+D;D022;Shulha Inna Hryhorivna;7;B;BO2345TF
+D;D023;Lytvyn Ivan Maksymovych;14;B,C,D;AA1111BX
+D;D024;Diachenko Viktoriia Volodymyrivna;3;B;AA2222CX
+D;D025;Fedorenko Kyrylo Yevhenovych;6;B;AB3333XY
+D;D026;Honcharuk Nadiia Stepanivna;8;C;AX7777BT
+D;D027;Vasylenko Oleksandr Yuriiovych;12;B,D;BD4321BA
+D;D028;Mykhailenko Tetiana Petrivna;4;B;AC4444YZ
+D;D029;Semenenko Ruslan Andriiovych;10;C;BE6789CB
+D;D030;Zhukova Yelyzaveta Denysivna;5;B;AD5555ZT
+D;D031;Polishchuk Ihor Tarasovych;11;C;BF5678DC
+D;D032;Kryvenko Anastasiia Olehivna;7;B,C;BC1234AB
+D;D033;Karpenko Oleh Mykolaiovych;9;B;AO1234KP
+D;D034;Mazur Liudmyla Viktorivna;6;B;AP5678IO
+D;D035;Nesterenko Viktor Ivanovych;13;C,D;AR9012UI,BA6789NB
+D;D036;Samoilenko Yevheniia Borysivna;8;B;BC4567ZP
+M;M001;Sydorenko Oleh Petrovych;15;Engine Specialist
+M;M002;Ivanova Hanna Lvivna;7;Electrician
+M;M003;Zaichenko Iryna Viktorivna;3;Body Repair
+M;M004;Horobets Dmytro Oleksandrovych;12;Welder
+M;M005;Panchenko Svitlana Leonidivna;10;Mechanic
+M;M006;Kovalchuk Andrii Ihorovych;8;Diagnostics Specialist
+M;M007;Petrova Olena Serhiivna;5;Suspension Expert
+M;M008;Bondar Viktor Mykolaiovych;11;Transmission Specialist
+M;M009;Lytvynenko Maryna Olehivna;4;Painter
+M;M010;Shevchuk Vasyl Tarasovych;14;Hydraulics Specialist
+M;M011;Hrytsenko Iryna Dmytrivna;9;Air Conditioning Tech
+M;M012;Melnychuk Serhii Volodymyrovych;6;Tire Specialist
+M;M013;Tkach Olha Vitaliivna;3;General Maintenance
+M;M014;Romaniuk Oleh Petrovych;10;Engine Overhaul
+M;M015;Danyliuk Svitlana Yuriivna;7;Brake Systems
+M;M016;Morozov Ivan Kyrylovych;12;Exhaust Systems
+M;M017;Klymenko Natalia Andriivna;5;ECU Programming
+M;M018;Sokolov Dmytro Vasyliovych;8;Fuel Systems

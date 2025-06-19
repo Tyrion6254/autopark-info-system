@@ -1,0 +1,13 @@
+R101;Center - Railway Station;Rynok Square,Svobody Avenue,University,Main Station;AA1111BX,AA2222CX,AO1234KP
+R201;Sykhiv - Santa Barbara;King Cross Mall,Stryiska Street,Chervonoi Kalyny Avenue,Santa Barbara;AA2222CX,AP5678IO,BC4567ZP
+R001;Ring Route A;Horodotska Street,Kulparkivska Street,Naukova Street,Volodymyra Velykoho Street,Horodotska Street;CA3333HI,BG0123LK
+R002;Airport - Center (Express);Airport,Liubinska Street,Rynok Square;AA1111BX,BK6789AZ
+R301;Industrial Zone Loop;Zaliznychna Street,Promyslova Street,Sknyliv Park,Industrial Depot;AX7777BT,BC1234AB,AR9012UI,AU1234FJ
+R302;Historic Center Tour;High Castle,Shevchenka Avenue,Market Square,Opera House;AB3333XY,AD5555ZT,AT7890GH,BD8901WQ
+R303;University Campus Shuttle;Student Housing,Faculty of Physics,Central Library,Sports Complex;AC4444YZ,AW9012SL,AZ3456CM,BJ2345DS
+R202;Suburban Route West;Lychakivska Street,Vynnyky,Zubra,Pidbirtsi;BD4321BA,BE6789CB,BA6789NB,BE2345SR
+R304;Logistics Corridor;Customs Terminal,Ring Road,Cargo Warehouse 1,Retail Center;BF5678DC,BH4567JH,BL0123XW,BP6789RG
+R305;Technical Service Access;Garage 1,Workshop 1,Airport,Service Point South;AE5555CI,AG1111DD,AS3456TY,AV5678DK
+R307;Mobile Team Dispaftch;Main Garage,City Hospital,Market Area,Residential Sector 12;AH2222EE,BB0123VX,BM4567VC
+R306;Inspection Sweep;Garage 2,Technical Stop A,Depot 3,Route Node B;AJ3333FF,BF6789PM,BI8901GF
+R401;On-site Repair Service;Breakdown Zone West,Workshop 2,Road Node C,Dispatcher Point;AK4444GG,BQ0123QE,BT2345NI

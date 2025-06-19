@@ -1,0 +1,8 @@
+G01;Garage No.1 (Central)
+G02;Garage No.2 (Sykhiv Park)
+G03;Garage No.3 (Ryasne)
+G04;Garage No.4 (Industrial Zone)
+G05;Garage No.5 (Airport)
+G06;Garage No.6 (Shevchenkivskyi District)
+W01;Workshop No.1 (Main)
+W02;Workshop No.2 (Levandivka District)

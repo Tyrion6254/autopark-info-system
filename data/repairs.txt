@@ -1,0 +1,22 @@
+RP001;AA1111BX;2023-10-15;Oil and filter replacement;1250.50;B01
+RP002;AX7777BT;2023-11-02;Brake system repair;5500.00;B02
+RP004;AE5555CI;2023-12-01;Electrical system repair;850.00;B02
+RP005;CA3333HI;2024-01-05;Scheduled maintenance;2100.00;B03
+RP006;BC1234AB;2024-03-12;Clutch replacement;4700.00;B01
+RP007;AG1111DD;2024-04-03;Suspension diagnostics and repair;3650.25;B02
+RP008;AD5555ZT;2024-05-10;Air conditioning system service;1800.00;B03
+RP009;AO1234KP;2024-05-15;Tire rotation and balance;950.00;B04
+RP010;BE6789CB;2024-05-20;Engine diagnostics;2200.50;B04
+RP011;BF5678DC;2024-05-25;Exhaust system welding;1500.00;B03
+RP012;AK4444GG;2024-06-01;Body panel dent removal;4100.75;B06
+RP013;AR9012UI;2024-06-05;Fuel injector cleaning;1300.00;B06
+RP014;AS3456TY;2024-06-10;Gearbox oil change;1950.25;B05
+RP016;AV5678DK;2024-06-20;Steering alignment;1100.50;B06
+RP017;BD4321BA;2024-06-25;Headlight bulb replacement;350.00;B02
+RP018;BA6789NB;2024-07-01;Hydraulic lift repair;6200.00;B05
+RP019;BB0123VX;2024-07-05;Battery replacement;1400.75;B01
+RP020;BH4567JH;2024-07-10;Air filter replacement;600.00;B05
+RP021;BK6789AZ;2024-07-15;Wiper blade replacement;250.50;B01
+RP022;BL0123XW;2024-07-20;Scheduled major service;7500.00;B04
+RP023;BT2345NI;2024-07-25;Differential oil change;2800.00;B05
+RP024;BR4567WP;2024-07-30;Cooling fan repair;1750.25;B03
